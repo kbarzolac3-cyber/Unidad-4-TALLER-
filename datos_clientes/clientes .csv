@@ -1,0 +1,8 @@
+ID_Cliente,Nombre,Correo,Telefono,Ciudad,Direccion,Fecha_Registro,Tipo_Cliente
+C001,Isabel Garces,Isabel.garces@email.com,0991234567,Guayaquil,Av. 9 de Octubre,2024-01-15,VIP
+C002,Juan Perez,juan.perez@email.com,0987654321,Quito,Av. Amazonas N34,2024-02-20,Regular
+C003,Maria Lopez,maria.lopez@email.com,0998877665,Cuenca,Calle Larga 123,2024-03-10,Nuevo
+C004,Carlos Ruiz,carlos.ruiz@email.com,0981122334,Ambato,Av. Cevallos,2024-05-05,Regular
+C005,Vicente Zambrano,vicente.zambrano@email.com,0995544332,Manta,Barrio Murcielago,2024-06-15,VIP
+C006,Kelly Barzola,kelly.barzola@email.com,0989988776,Quito,Sector La Carolina,2024-07-20,Nuevo
+C007,Juan Perez,juan.perez@email.com,0996655443,Guayaquil,Urdesa Central,2024-08-30,Regular
