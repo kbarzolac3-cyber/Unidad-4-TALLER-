@@ -1,0 +1,9 @@
+Fecha,ID_Venta,Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Vendedor,Sucursal
+2025-11-01,1001,Laptop HP,Electronica,1,850.00,850.00,Isabel Garces,Guayaquil
+2025-11-02,1002,Mouse Gamer,Accesorios,2,25.50,51.00,Jose Alvarado,Quito
+2025-11-02,1003,Teclado Mecanico,Accesorios,1,60.00,60.00,Ana Lopez,Cuenca
+2025-11-03,1004,Monitor 24 pulg,Electronica,3,180.00,540.00,Kelly Barzola,Guayaquil
+2025-11-04,1005,Silla Ergonomica,Muebles,1,120.00,120.00,Carlos Ruiz,Quito
+2025-11-05,1006,Memoria USB 64GB,Almacenamiento,10,8.00,80.00,Vicente Zambrano,Ambato
+2025-11-06,1007,Impresora Laser,Oficina,1,250.00,250.00,Kelly Barzola,Guayaquil
+2025-11-07,1008,Paquete Hojas A4,Papeleria,50,3.50,175.00,Juan Perez,Quito
