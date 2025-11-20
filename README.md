@@ -4,10 +4,10 @@
 **Estudiante:** Kelly Barzola Cadena
 **Fecha:** 19 de Noviembre de 2025
 
-## 📖 Descripción
+##  Descripción
 Este repositorio contiene la práctica de la Unidad 4 sobre **Control de Versiones**. El objetivo es demostrar la creación de un repositorio público, la organización de carpetas y la gestión de archivos de datos estructurados.
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 El proyecto está organizado en dos directorios principales:
 
